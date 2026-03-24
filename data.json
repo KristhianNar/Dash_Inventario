@@ -11786,7 +11786,7 @@
       "Material": "170000930",
       "Texto breve de material": "GORRO ASTRONAUTA AZUL OSCURO",
       "Centro": "CPT2",
-      "Almacén": "20",
+      "Almacén": "22",
       "Libre utilización": 80
     },
     {
@@ -32427,7 +32427,8 @@
   "por_almacen": {
     "": 75,
     "12": 21723,
-    "20": 401,
+    "20": 321,
+    "22": 80,
     "45": 0,
     "46": 922
   },
@@ -32522,6 +32523,7 @@
     "almacenes": [
       "12",
       "20",
+      "22",
       "45",
       "46"
     ]
